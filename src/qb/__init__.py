@@ -1,4 +1,4 @@
-#FF-Quantum Bridge API; GNU GPL v3
+#FF-Quantum Bridge API; 2024 Pecacheu, MIT
 
 import json, time, secrets, base64, asyncio
 from threading import Thread
